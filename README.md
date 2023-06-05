@@ -4,6 +4,8 @@
   3. stream new words every day from a random API
   4. we will get the hang of GIT eventually, watch and learn
   5. trust the process.
+  6.  we shall see
+  7.  
   
   
   
