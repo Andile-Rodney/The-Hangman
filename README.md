@@ -5,7 +5,8 @@
   4. we will get the hang of GIT eventually, watch and learn
   5. trust the process.
   6.  we shall see
-  7.  
+  7.  to add more arrays in order to have random selection of the number
+  8.  maybe more like a favourite movie type of thing, we shall see
   
   
   
